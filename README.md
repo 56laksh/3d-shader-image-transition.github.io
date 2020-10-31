@@ -1,1 +1,1 @@
-# 3d-shader-image-transition.github.io
+# 3d-shader-image-transition
